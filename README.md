@@ -7,12 +7,14 @@ O projeto WdpShoes foi desenvolvido para e-commerce para lojas de calçados e ro
 Com um layout muito simples e bem bonito para boa experiência com usuário e a sua navegação no mesmo. 
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/alison-dev/wdpshoes/tree/master/mobile1/2021-09-27 (8).png) 
+
+![Mobile 2](https://github.com/alison-dev/wdpshoes/tree/master/mobile2/2021-09-27 (10).png) 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/alison-dev/wdpshoes/tree/master/web1/2021-09-27.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/alison-dev/wdpshoes/tree/master/web2/2021-09-27 (2).png)
 
 
 # Tecnologias utilizadas
