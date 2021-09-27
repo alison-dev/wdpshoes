@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto WdpShoes foi desenvolvido para e-commerce para lojas de calçados e roupas esportivas. Site 100% otimizado para vendas e consersão.
+O projeto WdpShoes foi desenvolvido para e-commerce para lojas de calçados e roupas esportivas. Site 100% otimizado para vendas e conversão.
 Com um layout muito simples e bem bonito para boa experiência com usuário e a sua navegação no mesmo. 
 
 ## Layout mobile
@@ -32,10 +32,8 @@ Com um layout muito simples e bem bonito para boa experiência com usuário e a 
 git clone https://github.com/alison-dev/wdpshoes
 ```
 
-# colocar os arquivos em um servidor local
-
 # executar o projeto
-localhost/wdp_project
+colocar os arquivos em um servidor local: localhost/wdp_project
 
 # Autor
 
