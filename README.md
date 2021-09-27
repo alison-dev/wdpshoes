@@ -1,5 +1,5 @@
 # WdpShoes 
-[![NPM]](https://github.com/alison-dev/wdpshoes/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/1/react)](https://github.com/alison-dev/wdpshoes/blob/main/LICENSE) 
 
 # Sobre o projeto
 
